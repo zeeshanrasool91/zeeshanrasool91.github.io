@@ -1,1 +1,2 @@
+include: [".well-known","aiyun.json"]
 theme: jekyll-theme-cayman

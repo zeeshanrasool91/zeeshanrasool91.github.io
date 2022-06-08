@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zeeshanrasool.deeplinktest",
+      "sha256_cert_fingerprints": [
+        "87:83:F9:41:30:8D:51:15:73:87:46:70:F8:28:A9:6A:65:F7:1B:BC:21:7D:B4:2E:0F:4F:26:B5:D4:E5:4C:39"
+      ]
+    }
+  }
+]
