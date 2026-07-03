@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 
 
-[contact support-deep-link](https://support.github.com/contact](https://ds.sharjah.ae/lnk?c=UDAzcVcHz) 
+[contact support-deep-link](https://ds.sharjah.ae/lnk?c=UDAzcVcHz) 
 
 ### Jekyll Themes
 
